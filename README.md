@@ -1,8 +1,8 @@
 The project is done using ReactJS. 
 
 To run the application, download the project from the repository.
-On Command Prompt run
-1. "npm install
+Inside the project root directory, open Command Prompt and run:
+1. "npm install"
 2. "npm start" 
 to run the application in LocalHost.
 
